@@ -4,7 +4,7 @@
 
 - **Name:** Josephat Kene
 - **Task Completed:** Deployed two ec2 instances to two different regions on aws.
-- **Date and Time:** 18th October, 2024 | 11:49 AM GMT+1
+- **Date and Time:** 18th December, 2024 | 11:49 AM GMT+1
 
 I read the first section of chapter 7 and i learnt more about what terraform providers are (plugins for the terraform core). i learnt how to install a terraform provider, how to use provider within the terraform block, using the data block and alias to work with mutiple copies of same provider (i.e multiple regions, working with multiple aws accounts, working with multiple different providers).
 
